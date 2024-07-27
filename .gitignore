@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+ECHO is on.
+# C extensions 
+*.so 
+ECHO is on.
+# Distribution / packaging 
+.Python 
+env/ 
+build/ 
+develop-eggs/ 
+dist/ 
+downloads/ 
+eggs/ 
+.eggs/ 
+lib/ 
+lib64/ 
+parts/ 
+sdist/ 
+var/ 
+*.egg-info/ 
+.installed.cfg 
+*.egg 
+wheelhouse/ 
+pip-wheel-metadata/ 
+ECHO is on.
+# Django stuff: 
+*.log 
+*.pot 
+*.pyc 
+__pycache__/ 
+local_settings.py 
+db.sqlite3 
+media/ 
+ECHO is on.
+# Node.js stuff: 
+node_modules/ 
+npm-debug.log* 
+ECHO is on.
+# Python virtual environment 
+ll_env/ 
